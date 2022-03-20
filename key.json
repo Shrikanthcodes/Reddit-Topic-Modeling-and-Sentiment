@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "red-forklift-344504",
+  "private_key_id": "2a37bb7642ea905e48a93a92bb30ab3cd9ad26e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIwIsnhkoeRyxF\nY2MHsV9CMPgKucMIZlSQnUeOHZ26Gh3OUlcyiGhwJtvWmi9+v5MELqzko/fEgnLN\nLl4jgBmx3LX//nYyvuhvZdeM6OgGz2AjqAKFIPQ3FsOx8qG2CBSac7lD3U62Ac/Z\nAoy1F8hKbaRLKdF/nGwR6adAfn9wFuwyuvQZEEX6sB+yqSiW7zGivtdOxu+nARBf\nt5ESmK5DE4lfWIXBicfXolWOs6+EzbsR9WIxNccQd3pf4PHXw0dML1esaD5OYW9B\nBmI29PkezaWWknNfwrHoUhPmWsGpdSDnl5GN+fnM9z53h64L/uAZRaOnq98DSkEe\nYj/x/6vvAgMBAAECggEAT+D1PcPcaBHP1shGFkCIc9ECUVo69XOqQGSknTLBmNRd\necQfuBa4369GmCx/q4JU4DwmRU/M/Z8eSPAjOyL0lmYI8RRyOZzm5bRzQTlHYbZQ\nPb/TSN+k7Oqc8YhmugSbFh3n4M4FTLyJ1IKENGaDJsJbtiCsoIdAJRyAlVQAJzvy\n0uclTa1l06MR4W3xh7KOZ8VbToDnPLYjvyASV0hzYBx0DNXdFtisF9Xv4+lve6pt\n+copYQV4KOSlgV4ri+IsuFkLcOHKceLsEDgKnYhGyRS2pwIFJ/h4rpFshnkwe4HH\nVrwYgkcIGbb+1OvBMj0TPQG2Pg3oaCMw4HYua3rPaQKBgQD0Y0HQA+d+IN5ScI09\n8Q8yp6kx/h+xKNZ58JGsfNoow9h6sHPWI7Eu1j+2m4+mC57RTsRVZRfwy78/TsHS\nYDL2fYV3MSZOPeei5w3eGftKDIyu7875XP1xSRSwHQhiXjjvYuEzEqjow+1ucbju\nFMGgZsqqdXhqwdAuEww6IuydhQKBgQDSSoBLqrczsO6yvMZzEdKfyAc7yGZlIHfs\nDl9+taled/U6FOdHSJPH0W2yfz83dKEFRIzHdR57rsQB31ekBEjU4ZLWmK1VWbAd\n3HzhoocnmhZ6T57d+m39556+rwtTk0UyfDnlWtso4ivr7HRDwpjvh7U0taPxiniF\n7Vqlz5yz4wKBgQDc4U0dVjoHTGvENQfjYRmsXc7VaWp5c4CNy7nOHTYMPB5PnWXE\nuJOu0mPZhrYJjF0prjhTOkCuGWisLmGN4/aLxB06Akkt1FOkb5KgF/mADuGkRwhZ\nZwuGNVgmaMcoKSLqcgM6ZvYVEuhotw4+2LG8aMtpzyxbyPqAeiTF8sTLBQKBgAEu\nSeoi20R/CdgXF0YuI3CiPugnB+wpcoLw0bh0bK8LHWVmGKZd0fadRnBqJoC5Nu5A\npEm6bqFjKdaY2nUhUQdg/OIXmWGRT1vbkRfzQa8HPnkRWWMFtPhoBIwtj3K4sPrH\nl8uh5vkjy/tXKI/418MAkBPrsS/6BxM5cfjcYZThAoGAF25BYyB8n3YyOzfh/D1X\nLDai0NnoqfjzZOTnmCWznT25b4E+i0cgCqc4twaM40rqcRMQUNzrmWjlIwBRpYA1\nETneSOGLWfcku0GPxF0hgN83NCy4vKOrm86y4gvxkQe6YDke66jSVs8JkokYuWHc\nOfU6XIjCuL23wAHIjtL5q74=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-bigquery-sa@red-forklift-344504.iam.gserviceaccount.com",
+  "client_id": "114292055249983972371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-bigquery-sa%40red-forklift-344504.iam.gserviceaccount.com"
+}
