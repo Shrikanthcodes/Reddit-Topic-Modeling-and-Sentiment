@@ -1,9 +1,3 @@
-Project for Applied Data Analysis class
-----------------------------------------------------------------
-----------------------------------------------------------------
-
-
-Notes.
 -----------------------------------------------------------------
 FILES TO OPEN:
 -----------------------------------------------------------------
@@ -16,11 +10,9 @@ visual.html for interactive output.
 
 Challenges Faced:
 -----------------------------------------------------------------
-1) Data Scaling, I tried using 5 months of data in the starting, but I lacked enough compute power to get results
+1) Data Scaling; Used data for the month of Oct 2018, instead of using data over 6 months as planned, due to time consideration and compute power throttling issues
 
-2) Dataset cleaning and processing took a long time, and therefore could not be tuned as much as I would have liked
-
-3) Time and deadline constraints stopped me from meeting all the project goals
+2) Time and deadline constraints; LDA model could have been tuned further
 
 Code Source:
 ------------------------------------------------------------------
@@ -42,9 +34,7 @@ Bibliography
 ------------------------------------------------------------------------
 1) Cable cord sentiment analysis: https://github.com/akhilesh-reddy/Cable-cord-cutter-Sentiment-analysis-using-Reddit-data#introduction
 
-2) Reddit Analysis: https://github.com/daviscvance/NLP-Reddit
-
-3) Sentiment analysis using product review data By Xing Fang, Justin Zhan:
+2) Sentiment analysis using product review data By Xing Fang, Justin Zhan:
 
 Credits:
 ------------------------------------------------------------------------
